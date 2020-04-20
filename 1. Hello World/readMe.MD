@@ -1,13 +1,10 @@
-# Python Basics
+# HelloWorld.py
 Compiled by Salman Qureshi
 github: hotheadhacker
 web: salmanually.com
 Socials: salmanually
 
-# Easiest starter packer for python
-
 # What is Python?
-
 Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 
 # It is used for:
