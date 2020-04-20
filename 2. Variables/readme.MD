@@ -96,14 +96,17 @@ To create a global variable inside a function, you can use the global keyword.
 
 """
 # If you use the global keyword, the variable belongs to the global scope:
+
+~~~
 def myFunction3():
     global x1
     x1 = "fantastic"
 myFunction3()
 print("Python is " + x1)
-
+~~~
 # Also, use the global keyword if you want to change a global variable inside a function.
 # To change the value of a global variable inside a function, refer to the variable by using the global keyword:
+~~~
 x2 = "awesome"
 
 def myFunction4():
@@ -111,3 +114,4 @@ def myFunction4():
     x2 = "fantastic"
 myFunction4()
 print("Python is " + x2)
+~~~
